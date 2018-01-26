@@ -1,7 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Elias
+ * User: Elias Trewin
  * Date: 26.01.2018
  * Time: 13:14
  */
